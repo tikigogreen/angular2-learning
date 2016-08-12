@@ -1,7 +1,7 @@
 // It is a "best practice" to apply the @Injectable() decorator ​from the start​ both for consistency and for future-proofing.
 import { Injectable } from '@angular/core';
 
-import {} from './hero';
+// import { Hero } from './hero';
 import { HEROES } from './mock-heroes';
 
 @Injectable()
